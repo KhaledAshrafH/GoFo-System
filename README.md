@@ -17,13 +17,13 @@ To install this project, you need to have Java 11 or higher installed on your ma
 
 1. Clone this repository to your local machine using `git clone https://github.com/KhaledAshrafH/GoFo-System.git`
 2. Open the project folder in your preferred IDE (such as Eclipse or IntelliJ IDEA).
-3. Compile the `Main.java` file as a Java application.
+3. Compile the `Demo.java` file as a Java application.
 
 ## Usage
 
 To use this project, you need to interact with the console interface that provides menus and prompts for different actions.
 
-1. Run the `Main.java` file as a Java application.
+1. Run the `Demo.java` file as a Java application.
 2. You will see the main menu of the system where you can choose to sign up or log in as a user, a playground owner or an administrator.
 3. Follow the instructions on each menu to perform different actions such as creating a profile, registering a playground, displaying playgrounds, booking a time slot, sending invitations, etc.
 
