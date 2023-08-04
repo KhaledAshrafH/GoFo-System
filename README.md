@@ -15,7 +15,7 @@ This project is a booking system for football playgrounds. It serves the players
 
 To install this project, you need to have Java 11 or higher installed on your machine.
 
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/football-playground-booking-system.git`
+1. Clone this repository to your local machine using `git clone https://github.com/KhaledAshrafH/GoFo-System.git`
 2. Open the project folder in your preferred IDE (such as Eclipse or IntelliJ IDEA).
 3. Compile the `Main.java` file as a Java application.
 
